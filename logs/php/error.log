@@ -1,0 +1,65 @@
+[23-Dec-2021 12:59:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:14 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:14 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\index.php:0
+[23-Dec-2021 12:59:14 UTC] PHP   2. require() C:\Users\henok\Local Sites\my-colleges\app\public\index.php:17
+[23-Dec-2021 12:59:14 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-blog-header.php:13
+[23-Dec-2021 12:59:14 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:14 UTC] PHP   5. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:14 UTC] PHP   6. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:14 UTC] PHP   7. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:14 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:14 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:14 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\wp-cron.php:0
+[23-Dec-2021 12:59:14 UTC] PHP   2. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-cron.php:44
+[23-Dec-2021 12:59:14 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:14 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:14 UTC] PHP   5. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:14 UTC] PHP   6. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:14 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:14 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:14 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:14 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:0
+[23-Dec-2021 12:59:14 UTC] PHP   2. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:22
+[23-Dec-2021 12:59:14 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:14 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:14 UTC] PHP   5. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:14 UTC] PHP   6. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:14 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:15 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:15 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:0
+[23-Dec-2021 12:59:15 UTC] PHP   2. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:22
+[23-Dec-2021 12:59:15 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:15 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:15 UTC] PHP   5. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:15 UTC] PHP   6. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:15 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:15 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:15 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:15 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\wp-cron.php:0
+[23-Dec-2021 12:59:15 UTC] PHP   2. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-cron.php:44
+[23-Dec-2021 12:59:15 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:15 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:15 UTC] PHP   5. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:15 UTC] PHP   6. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:15 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:16 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:16 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:0
+[23-Dec-2021 12:59:16 UTC] PHP   2. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-admin\admin-ajax.php:22
+[23-Dec-2021 12:59:16 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:16 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:16 UTC] PHP   5. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:16 UTC] PHP   6. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:16 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327
+[23-Dec-2021 12:59:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'college_features' not found or invalid function name in C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php on line 303
+[23-Dec-2021 12:59:16 UTC] PHP Stack trace:
+[23-Dec-2021 12:59:16 UTC] PHP   1. {main}() C:\Users\henok\Local Sites\my-colleges\app\public\index.php:0
+[23-Dec-2021 12:59:16 UTC] PHP   2. require() C:\Users\henok\Local Sites\my-colleges\app\public\index.php:17
+[23-Dec-2021 12:59:16 UTC] PHP   3. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-blog-header.php:13
+[23-Dec-2021 12:59:17 UTC] PHP   4. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-load.php:50
+[23-Dec-2021 12:59:17 UTC] PHP   5. require_once() C:\Users\henok\Local Sites\my-colleges\app\public\wp-config.php:77
+[23-Dec-2021 12:59:17 UTC] PHP   6. do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-settings.php:556
+[23-Dec-2021 12:59:17 UTC] PHP   7. WP_Hook->do_action() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\plugin.php:470
+[23-Dec-2021 12:59:17 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\henok\Local Sites\my-colleges\app\public\wp-includes\class-wp-hook.php:327

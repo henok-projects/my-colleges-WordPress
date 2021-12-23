@@ -7,3 +7,9 @@
 
     }
     add_action('wp_enqueue_scripts','college_files');
+
+    function college_features(){
+
+        add_theme_support('title_tag');
+    }
+    add_action('after_setup_theme','college_features');
